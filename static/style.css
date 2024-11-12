@@ -1,0 +1,48 @@
+body{
+   font-family: Arial, sans-serif;
+   background-color: #f4f4f4;
+   margin: 0;
+   padding: 0;
+}
+
+header{
+   background-color: #00796b;
+   color: white;
+   text-align: center;
+   padding: 20px;
+}
+
+nav a {
+   color: white;
+   margin: 0  15px;
+   text-decoration: none;
+}
+
+nav a:hover{
+}
+
+nav a:hover{
+   font-decoration: underline;
+}
+
+h1,h2,h3 {
+   font-family: 'Arial', sans-serif;
+}
+
+section{
+   padding: 20px
+}
+
+footer{
+   text-align: center;
+   background-color: #00796b;
+   color: white;
+   padding: 10px 0;
+   width: 100%;
+   bottom: 0;
+}
+
+#map{
+  height:400px;
+  width: 100%;
+}
